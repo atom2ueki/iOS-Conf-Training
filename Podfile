@@ -17,7 +17,6 @@ target 'Find_my_Data' do
   pod 'libpng', '~> 1.6'
 
   # Error in M1-Mac
-  # pod 'TwitterKit', '~> 3.4.2'
   
   # Pods for Find_my_Data
 
